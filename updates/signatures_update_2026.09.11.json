@@ -1,0 +1,79 @@
+{
+  "version": "2026.09.11.01",
+  "release_date": "2026-09-11",
+  "signatures_count": 9,
+  "signatures": [
+    {
+      "threat_name": "Trojan.Win32.GenericBackdoor",
+      "threat_type": "Trojan",
+      "severity": "High",
+      "hash_sha256": "44d88612fea8a8f36de82e1278abb02f1a23b4c5d6e7f8a9b0c1d2e3f4a5b6c7",
+      "hash_md5": "44d88612fea8a8f36de82e1278abb02f",
+      "description": "Backdoor trojan yang membuka port remote access."
+    },
+    {
+      "threat_name": "Ransom.Win32.WannaCry.A",
+      "threat_type": "Ransomware",
+      "severity": "Critical",
+      "hash_sha256": "ed01ebf83334a193731427b5b9479b17a4dd42283b0f7924f7b9e0d16df39a29",
+      "hash_md5": "84c82835a5d21bbcf75a61706d8ab549",
+      "description": "Varian ransomware WannaCry yang mengenkripsi file korban."
+    },
+    {
+      "threat_name": "Spyware.KeyLogger.Zeus",
+      "threat_type": "Spyware",
+      "severity": "High",
+      "hash_sha256": "25442f99d94943f05cefe57700e16e625a528e17b88939c39c4a864d4ef7495b",
+      "hash_md5": "3f2e1a4b5c6d7e8f90a1b2c3d4e5f6a7",
+      "description": "Perekam ketikan keyboard untuk mencuri kredensial perbankan."
+    },
+    {
+      "threat_name": "CoinMiner.Win64.XMRigStealth",
+      "threat_type": "CoinMiner",
+      "severity": "Medium",
+      "hash_sha256": "b5a92a548c267c7e0f2d7a6e1f0e4b8a2c1d3e5f7a9b0c2d4e6f8a1b3c5d7e9f",
+      "hash_md5": "a1b2c3d4e5f60718293a4b5c6d7e8f90",
+      "description": "Penambang cryptocurrency ilegal yang membebani CPU sistem."
+    },
+    {
+      "threat_name": "EICAR-Test-Hash",
+      "threat_type": "Test.File",
+      "severity": "Low",
+      "hash_sha256": "275a021bbfb6489e54d471899f7db9d1663fc695ec2fe2a2c4538aabf651fd0f",
+      "hash_md5": "44d88612fea8a8f36de82e1278abb02f",
+      "description": "Hash standar untuk verifikasi deteksi EICAR."
+    },
+    {
+      "threat_name": "Ransom.Win64.LockBit3.Black",
+      "threat_type": "Ransomware",
+      "severity": "Critical",
+      "hash_sha256": "d8e8fca2dc0f896fd7cb4cb0031ba249f7cd90b34382cc39328229b47e2ef738",
+      "hash_md5": "c0556277a942978a9c4033324c53c44e",
+      "description": "Ransomware LockBit 3.0 yang menonaktifkan sistem pertahanan."
+    },
+    {
+      "threat_name": "Infostealer.Win32.RedLine",
+      "threat_type": "InfoStealer",
+      "severity": "High",
+      "hash_sha256": "71c08e50b7cae636b043b2a2b724f7e271cf5ff8c2ef40b8fb7b2fb0a187ff68",
+      "hash_md5": "7b0a70f5e1b2c3d4e5f6a7b8c9d0e1f2",
+      "description": "Pencuri cookie browser, password tersimpan, dan wallet crypto."
+    },
+    {
+      "threat_name": "Worm.Win32.Morto.B",
+      "threat_type": "Worm",
+      "severity": "High",
+      "hash_sha256": "9b71d224bd62f3785d96d46ad3ea3d733100e3046d1c022f2da6cce5a2cac832",
+      "hash_md5": "9b71d224bd62f3785d96d46ad3ea3d73",
+      "description": "Worm yang menyebar mandiri melalui port RDP Windows."
+    },
+    {
+      "threat_name": "Rootkit.Win64.TDSS",
+      "threat_type": "Rootkit",
+      "severity": "Critical",
+      "hash_sha256": "8f434346648f6b96df89dda901c5176b10e6d0ce180e058c4225d25e0c525f02",
+      "hash_md5": "8f434346648f6b96df89dda901c5176b",
+      "description": "Rootkit kernel mode yang menyembunyikan aktivitas berbahaya."
+    }
+  ]
+}
