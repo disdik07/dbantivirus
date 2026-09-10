@@ -1,7 +1,7 @@
 {
   "version": "2026.09.10.03",
   "release_date": "2026-09-10",
-  "signatures_count": 765,
+  "signatures_count": 780,
   "source": "MalwareBazaar (abuse.ch) + ThreatFox + ClamAV (Cisco)",
   "signatures": [
     {
@@ -35,6 +35,542 @@
       "hash_sha256": "275a021bbfb6489e54d471899f7db9d1663fc695ec2fe2a2c4538aabf651fd0f",
       "hash_md5": "44d88612fea8a8f36de82e1278abb02f",
       "description": "Standard EICAR test signature."
+    },
+    {
+      "threat_name": "AbuseCH.\"n/a\"",
+      "threat_type": "Trojan",
+      "severity": "High",
+      "hash_sha256": "\"ab9a7518b3d366ba02df4eca1555d0dfba234efd2fdef3c7a1b45f4e793ab40f\"",
+      "hash_md5": "\"4b4419a69c6cd5224f6bf415cc88ed32\"",
+      "description": "File: \"wj0s.x86_64\" | Type: \"elf\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"n/a\"",
+      "threat_type": "Trojan",
+      "severity": "High",
+      "hash_sha256": "\"82550ff97d953cd7f4278b79f1b2ded0e985e19c0a09e2e3d846d8960a754609\"",
+      "hash_md5": "\"bfdbb9ad360fc112f16bde7c823bebb7\"",
+      "description": "File: \"wj0s.x86_64\" | Type: \"elf\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"n/a\"",
+      "threat_type": "Trojan",
+      "severity": "High",
+      "hash_sha256": "\"a47c5e54519011fde2eec3241e0b00528896f74f620fe4d0c77e48754eda47ee\"",
+      "hash_md5": "\"1c7dfb87760a0543eb2b30d3baba6071\"",
+      "description": "File: \"David.arm\" | Type: \"elf\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"Mirai\"",
+      "threat_type": "Botnet/RAT",
+      "severity": "Critical",
+      "hash_sha256": "\"ec5326d6d0bc6e29ad4382a9d73b293ee18fff489311b915d98e0985b02bbdd0\"",
+      "hash_md5": "\"50ef953e20be93f365bef6c6bda01e65\"",
+      "description": "File: \"David.mpsl\" | Type: \"elf\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"Mirai\"",
+      "threat_type": "Botnet/RAT",
+      "severity": "Critical",
+      "hash_sha256": "\"29eb6e30d78b3af2acefdf69632b5ce754e9cbab7c79873449f20c7945ad82a6\"",
+      "hash_md5": "\"be9ce3fbc935a15b5e1c48d0ac3a5759\"",
+      "description": "File: \"David.arm7\" | Type: \"elf\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"Mirai\"",
+      "threat_type": "Botnet/RAT",
+      "severity": "Critical",
+      "hash_sha256": "\"cb4f23546d6a357f4950b07c9783a26a43bb3b4bede2bdce635d59e7e34bac80\"",
+      "hash_md5": "\"21bc018285644e93d1ab3c385983e5c8\"",
+      "description": "File: \"David.ppc\" | Type: \"elf\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"Mirai\"",
+      "threat_type": "Botnet/RAT",
+      "severity": "Critical",
+      "hash_sha256": "\"cd226b634e8dcefbf72f2465a922a9f33f235fa8fafa0d41bd1206bb56b5d475\"",
+      "hash_md5": "\"aa0a67a2e18a73b032c1392987cbacb8\"",
+      "description": "File: \"David.mips\" | Type: \"elf\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"Mirai\"",
+      "threat_type": "Botnet/RAT",
+      "severity": "Critical",
+      "hash_sha256": "\"718d1345ec4633350c6f36e892b372d433dc66bd4befaa2139e0e70afe04bd88\"",
+      "hash_md5": "\"8863d5ee79687d80998ee6664248c63e\"",
+      "description": "File: \"David.m68k\" | Type: \"elf\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"Mirai\"",
+      "threat_type": "Botnet/RAT",
+      "severity": "Critical",
+      "hash_sha256": "\"ab6c76cb0a5f755d3e6f1ae10d31ed03aca74cc8195356201f6fe63e8bb73098\"",
+      "hash_md5": "\"d17709d6c7172848aa720e5ba47d156d\"",
+      "description": "File: \"David.sh4\" | Type: \"elf\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"Mirai\"",
+      "threat_type": "Botnet/RAT",
+      "severity": "Critical",
+      "hash_sha256": "\"45f31662334cc30b490ceb4abb90193980274a28204bcc862d1cdfe01326ba23\"",
+      "hash_md5": "\"fe3c8ea263de6e56924acf992440aea2\"",
+      "description": "File: \"David.arm6\" | Type: \"elf\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"Mirai\"",
+      "threat_type": "Botnet/RAT",
+      "severity": "Critical",
+      "hash_sha256": "\"18adfa234f839da6dfe8498c5ee850a5a2110c0c600746c96a0e152c81d0e19b\"",
+      "hash_md5": "\"cc1a8671a4c5cf76ff55075d95808b9a\"",
+      "description": "File: \"David.x86\" | Type: \"elf\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"n/a\"",
+      "threat_type": "Trojan",
+      "severity": "High",
+      "hash_sha256": "\"5c87a7805abfbb10f5535bb5f06ab5a6cc755e8edbd47092c27106fedf21ca81\"",
+      "hash_md5": "\"853fc17c76f539b5bb79b12e4e8c6b01\"",
+      "description": "File: \"tokenlinux.sh\" | Type: \"sh\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"Mirai\"",
+      "threat_type": "Botnet/RAT",
+      "severity": "Critical",
+      "hash_sha256": "\"0e91ef623cbdb543680d0a984894546b1e1698ae278418740fcf0c01dbd18fc2\"",
+      "hash_md5": "\"1f063b3456c2fbdb74dadbc7fb6dda2f\"",
+      "description": "File: \"David.arm5\" | Type: \"elf\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"n/a\"",
+      "threat_type": "Trojan",
+      "severity": "High",
+      "hash_sha256": "\"e39f36aee537103d0c5885c3be445a042d4e0358f9c377c24a555b0931488943\"",
+      "hash_md5": "\"1d5e44142a3078f49188f67267dc5a0a\"",
+      "description": "File: \"wr.php\" | Type: \"sh\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"PureLogsStealer\"",
+      "threat_type": "InfoStealer",
+      "severity": "High",
+      "hash_sha256": "\"f0ac5a212ee1e3acb68b27dfdd8e3b9f46be4d6d49ec0e843b2c0cb832145873\"",
+      "hash_md5": "\"90606f943f0360cda289735b31ef836f\"",
+      "description": "File: \"SecuriteInfo.com.Win64.MalwareX-gen.75769394\" | Type: \"exe\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"Mirai\"",
+      "threat_type": "Botnet/RAT",
+      "severity": "Critical",
+      "hash_sha256": "\"4ec583a2508b50720916fba3e710dfca660d3c8efa2413ae6026f366eb143349\"",
+      "hash_md5": "\"93bc242a378348972bbfb5f07d542fc9\"",
+      "description": "File: \"wj0s.mipsel\" | Type: \"elf\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"Mirai\"",
+      "threat_type": "Botnet/RAT",
+      "severity": "Critical",
+      "hash_sha256": "\"93a681eb716c0b04b6b613edc5b4fac643d5af9e12c2c834b1f9b74e70c11017\"",
+      "hash_md5": "\"f9eac023196ce306e18f4870814e99ff\"",
+      "description": "File: \"wj0s.mipsel\" | Type: \"elf\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"n/a\"",
+      "threat_type": "Trojan",
+      "severity": "High",
+      "hash_sha256": "\"ecb6f74c33f779ba05f7e094b427322ca452fd15a707f72cb7326cf9e0288974\"",
+      "hash_md5": "\"aaea8f889de7e229a787b781a522fa6a\"",
+      "description": "File: \"wr.php\" | Type: \"sh\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"Mirai\"",
+      "threat_type": "Botnet/RAT",
+      "severity": "Critical",
+      "hash_sha256": "\"585ad1e5dc8f1ba4c55e53a28ed9deb28cb5c66b3df81613e6ed3b53eab92db7\"",
+      "hash_md5": "\"12cb80a1ca3cbb1bbdb79cd973274361\"",
+      "description": "File: \"wj0s.mips\" | Type: \"elf\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"Mirai\"",
+      "threat_type": "Botnet/RAT",
+      "severity": "Critical",
+      "hash_sha256": "\"cee26e0d2c176742ec3d01e1cd540643b117078f2c97f8ae1eb59d8bf4c9f013\"",
+      "hash_md5": "\"7dd46cb1afce627ece023ba4a69da54c\"",
+      "description": "File: \"wj0s.mips\" | Type: \"elf\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"Vidar\"",
+      "threat_type": "Trojan",
+      "severity": "High",
+      "hash_sha256": "\"7e6c18d1f36ea881e2029160438efad994040e41376e9b664858725523b659cd\"",
+      "hash_md5": "\"03ff2eb2b1d54c66b7b8ee7ad84f13c6\"",
+      "description": "File: \"7e6c18d1f36ea881e2029160438efad994040e41376e9b664858725523b659cd.bin\" | Type: \"exe\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"Mirai\"",
+      "threat_type": "Botnet/RAT",
+      "severity": "Critical",
+      "hash_sha256": "\"70aaaac6514b4abf91a055309442a6baca2df3ffa6a618742fddc9247792eb09\"",
+      "hash_md5": "\"58db87c4f9ac7ebf16b46fbf15b3e835\"",
+      "description": "File: \"wj0s.mipsel\" | Type: \"elf\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"Mirai\"",
+      "threat_type": "Botnet/RAT",
+      "severity": "Critical",
+      "hash_sha256": "\"fc9198218ecfdb7017e596f72d57e430560ea5a7eaac40d50ffbfa1859b5ffd5\"",
+      "hash_md5": "\"60df5b97fa3e97ce6e02a68af0ff5fef\"",
+      "description": "File: \"wj0s.mipsel\" | Type: \"elf\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"Mirai\"",
+      "threat_type": "Botnet/RAT",
+      "severity": "Critical",
+      "hash_sha256": "\"8700f731e2c9d3a68397e8d38ac7f6d65e6aeb035b2eb33d624762bcf84844f4\"",
+      "hash_md5": "\"d84273de93d6ad2832e62076b0c57253\"",
+      "description": "File: \"wj0s.arm7\" | Type: \"elf\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"njrat\"",
+      "threat_type": "Botnet/RAT",
+      "severity": "Critical",
+      "hash_sha256": "\"c92f2e4f8ebfa4a61f3b17663076cb8513f26bc60fbdbe6faea232f621b6e802\"",
+      "hash_md5": "\"29d87ed8ebc9b05426800ad3c13a8fcd\"",
+      "description": "File: \"29d87ed8ebc9b05426800ad3c13a8fcd.exe\" | Type: \"exe\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"n/a\"",
+      "threat_type": "Trojan",
+      "severity": "High",
+      "hash_sha256": "\"df2ea394c4a2ddeb29b3d3282c6685542596d550da0577746914e01e8a775f37\"",
+      "hash_md5": "\"31a238dbf6b5f36f05e8b1606c60d122\"",
+      "description": "File: \"wr.php\" | Type: \"sh\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"n/a\"",
+      "threat_type": "Trojan",
+      "severity": "High",
+      "hash_sha256": "\"b137a0c0df77c685a733ad341d437c0735f8935ead93c17b3d06107a6a25c827\"",
+      "hash_md5": "\"9d40d13e35b0bc218402405174953efb\"",
+      "description": "File: \"wr.php\" | Type: \"sh\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"n/a\"",
+      "threat_type": "Trojan",
+      "severity": "High",
+      "hash_sha256": "\"d906ac8463756d0994360988ca3fcad8f698df53a1e79d1dd2a42854c4580fcc\"",
+      "hash_md5": "\"344f796a5fe684b8c8a5c65b663a04af\"",
+      "description": "File: \"uni.zip\" | Type: \"zip\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"n/a\"",
+      "threat_type": "Trojan",
+      "severity": "High",
+      "hash_sha256": "\"1b7db08d55fd1d7f6c1cc9a7ebdfca8a15316b277372fa848626be8e56a70e7f\"",
+      "hash_md5": "\"7986bdc3f245ca0bde6d317de4a895c4\"",
+      "description": "File: \"images_20260909_060742.zip\" | Type: \"zip\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"Mirai\"",
+      "threat_type": "Botnet/RAT",
+      "severity": "Critical",
+      "hash_sha256": "\"6a63d6cb2aee37bb41a48fecc51bf635c9ff7cf3240bc666862b310495cd82e3\"",
+      "hash_md5": "\"59e6374648dedaca6a38967363593fbc\"",
+      "description": "File: \"6a63d6cb2aee37bb41a48fecc51bf635c9ff7cf3240bc666862b310495cd82e3.elf\" | Type: \"elf\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"n/a\"",
+      "threat_type": "Trojan",
+      "severity": "High",
+      "hash_sha256": "\"b387e0ebe5da15e08504a5ef0f9c452ba97a618092ffb1a38460daf520f32b8b\"",
+      "hash_md5": "\"23f81cc059aeebefbedcbf8a67d3201a\"",
+      "description": "File: \"k.php\" | Type: \"sh\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"n/a\"",
+      "threat_type": "Trojan",
+      "severity": "High",
+      "hash_sha256": "\"534af238e3ff203c42c3961f553419414f19dbc1ce1fe16ecdeb03e9a875ba7f\"",
+      "hash_md5": "\"961fad3cac2be9e673381dd722b64ff4\"",
+      "description": "File: \"k.php\" | Type: \"sh\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"Vidar\"",
+      "threat_type": "Trojan",
+      "severity": "High",
+      "hash_sha256": "\"67f1a3186b9c1e826ab34fb4c18a6a9c85bd5986e1214f80004c07c57cbfaa49\"",
+      "hash_md5": "\"2004d8d9525445445121fb47bbbf4b00\"",
+      "description": "File: \"67f1a3186b9c1e826ab34fb4c18a6a9c85bd5986e1214f80004c07c57cbfaa49.bin\" | Type: \"exe\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"Vidar\"",
+      "threat_type": "Trojan",
+      "severity": "High",
+      "hash_sha256": "\"e9951dbc13b4fb5a2fe7b26783d8495131edf77b4028a8bebf25ed02beaa8b5b\"",
+      "hash_md5": "\"1e1d111b87fc523c8b46b13e0300bcc0\"",
+      "description": "File: \"e9951dbc13b4fb5a2fe7b26783d8495131edf77b4028a8bebf25ed02beaa8b5b.bin\" | Type: \"exe\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"n/a\"",
+      "threat_type": "Trojan",
+      "severity": "High",
+      "hash_sha256": "\"eab42dcb8191622a87e6e2519a7eb193947ef6be051223652d18d3afe63bfb6a\"",
+      "hash_md5": "\"cfd9055a6b829710220931ce87833193\"",
+      "description": "File: \"wr.php\" | Type: \"sh\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"RemusStealer\"",
+      "threat_type": "InfoStealer",
+      "severity": "High",
+      "hash_sha256": "\"a84bef9ffa7f4ee4c682a75f1d0480c8b5cd233e355b885b61ef4a52eaf65dfb\"",
+      "hash_md5": "\"f4e051ee49a9559f6d71c7699226e3fb\"",
+      "description": "File: \"F4E051EE49A9559F6D71C7699226E3FB.exe\" | Type: \"exe\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"RedLineStealer\"",
+      "threat_type": "InfoStealer",
+      "severity": "High",
+      "hash_sha256": "\"953b808caf22274577e975b21404fcd2b69fb3e8ad266f175b100612305d5575\"",
+      "hash_md5": "\"8c82f607f14980a6962993f8800cdf35\"",
+      "description": "File: \"8c82f607f14980a6962993f8800cdf35.exe\" | Type: \"exe\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"AsyncRAT\"",
+      "threat_type": "Botnet/RAT",
+      "severity": "Critical",
+      "hash_sha256": "\"74fd0bb45d835e60419dfac50d2fb2361b694b37d0d397b735880a39baddadaa\"",
+      "hash_md5": "\"67ee6305e9d1017148aa909f0c29391c\"",
+      "description": "File: \"26SF10249959.pdf.vbe\" | Type: \"vbe\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"Vidar\"",
+      "threat_type": "Trojan",
+      "severity": "High",
+      "hash_sha256": "\"e686c2dcffe94fb122df2e81debdab3e3a973c9a3bfcd06854d2a99dd5605cd0\"",
+      "hash_md5": "\"3d305fab02241ac166687d9e3b1e1705\"",
+      "description": "File: \"e686c2dcffe94fb122df2e81debdab3e3a973c9a3bfcd06854d2a99dd5605cd0.bin\" | Type: \"exe\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"Vidar\"",
+      "threat_type": "Trojan",
+      "severity": "High",
+      "hash_sha256": "\"5a24a5a7e387ec5de6d8fc95e5bf455efae511d0f981605b0b232c6f6260f5cb\"",
+      "hash_md5": "\"5e1e402e90339348be7a2a68b60f55e5\"",
+      "description": "File: \"5a24a5a7e387ec5de6d8fc95e5bf455efae511d0f981605b0b232c6f6260f5cb.bin\" | Type: \"exe\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"Vidar\"",
+      "threat_type": "Trojan",
+      "severity": "High",
+      "hash_sha256": "\"863866fa9ffff1dd6e4d7bba34f127c9847e444078203fd2490a16fa08e91b92\"",
+      "hash_md5": "\"2aad0c2944754979c4ea0b0d0461efed\"",
+      "description": "File: \"863866fa9ffff1dd6e4d7bba34f127c9847e444078203fd2490a16fa08e91b92.bin\" | Type: \"exe\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"n/a\"",
+      "threat_type": "Trojan",
+      "severity": "High",
+      "hash_sha256": "\"f0f39486fd5ecf1509ccb1b95b05ded6b65d166d39498a00f70fe54466542fa7\"",
+      "hash_md5": "\"451fc3c9e1dbfe92fc1584c3a6ef3015\"",
+      "description": "File: \"file\" | Type: \"exe\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"Formbook\"",
+      "threat_type": "Trojan",
+      "severity": "High",
+      "hash_sha256": "\"210ae656df91ca6fe5cca2c03f737716637537e6b8d9e0476bafc268ceb64c32\"",
+      "hash_md5": "\"8594a6fe0265fa1629c16411f0fd3d77\"",
+      "description": "File: \"RFQ-REF HG599RJK 26910.exe\" | Type: \"exe\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"RemusStealer\"",
+      "threat_type": "InfoStealer",
+      "severity": "High",
+      "hash_sha256": "\"0960143403b7d6d8bbaed0f1652e83d6376c3cfe1fa6fe63b080b1fab97eb5a6\"",
+      "hash_md5": "\"e728c199f2f1ad356fcbee25a5475c74\"",
+      "description": "File: \"0960143403b7d6d8bbaed0f1652e83d6376c3cfe1fa6fe63b080b1fab97eb5a6.exe\" | Type: \"exe\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"Formbook\"",
+      "threat_type": "Trojan",
+      "severity": "High",
+      "hash_sha256": "\"429035128f4f06cb73b90e290675c8c90e469d5a38697a4623d5d5e767386427\"",
+      "hash_md5": "\"16c15c9d0be993e1c38fe74fe99d31f2\"",
+      "description": "File: \"LETTER_OF_AUTHORIZATIONpdf.js\" | Type: \"js\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"n/a\"",
+      "threat_type": "Trojan",
+      "severity": "High",
+      "hash_sha256": "\"c9af1ed74ff2ac578a847d0002a39169aef0e2736e5f29bab25f5974468ef99f\"",
+      "hash_md5": "\"f363e4a03db7a56bf030c608711acf85\"",
+      "description": "File: \"wr.php\" | Type: \"sh\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"n/a\"",
+      "threat_type": "Trojan",
+      "severity": "High",
+      "hash_sha256": "\"72489c0247133f21fea00be238bee0f9efb3923aeff154598fb8ed7f4b2778eb\"",
+      "hash_md5": "\"a5cedf1ec5dc8a045474bdb436283f92\"",
+      "description": "File: \"file\" | Type: \"exe\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"n/a\"",
+      "threat_type": "Trojan",
+      "severity": "High",
+      "hash_sha256": "\"640bf86675bf0d57c723c74fb3e1f964b56bdc80ab5f32cbe9eb0aca16406bf2\"",
+      "hash_md5": "\"bc94fbe9c80915f9d81850a7f2f47f74\"",
+      "description": "File: \"trackerjacker.ps1\" | Type: \"ps1\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"n/a\"",
+      "threat_type": "Trojan",
+      "severity": "High",
+      "hash_sha256": "\"40f96f60a568dd9f245cff0ccac92ec3ec939db1642187a94a5d92972938aed0\"",
+      "hash_md5": "\"6bc345bbd2f061a6ba1dab1cb86f83d5\"",
+      "description": "File: \"test.bat\" | Type: \"bat\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"n/a\"",
+      "threat_type": "Trojan",
+      "severity": "High",
+      "hash_sha256": "\"0fdcf90171bae4a3ed12e212c45d10fccb6695e72a6e4c7d645f41ee007ff1d2\"",
+      "hash_md5": "\"661dc935db55eb4f13d9b35fe70bfc6c\"",
+      "description": "File: \"stage6.vbs\" | Type: \"vbs\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"ConnectWise\"",
+      "threat_type": "Trojan",
+      "severity": "High",
+      "hash_sha256": "\"3199b8a0398994b0126a1e642618b5ba903acaeec64afd48f59a7bffd9045971\"",
+      "hash_md5": "\"f68cc2f19e6e207ffacb6a3b92b5c9e5\"",
+      "description": "File: \"PDF_Upgrade_Installation.vbs\" | Type: \"vbs\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"n/a\"",
+      "threat_type": "Trojan",
+      "severity": "High",
+      "hash_sha256": "\"c2e0982de94e50f08345d052021bdc965fa4fb6d3d7def2c59df5775946c9dc3\"",
+      "hash_md5": "\"ec6bd4158cea55223c6b14a8db840463\"",
+      "description": "File: \"malware.ps1\" | Type: \"ps1\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"n/a\"",
+      "threat_type": "Trojan",
+      "severity": "High",
+      "hash_sha256": "\"6c1253908b82d76cc548ab8069f7855c4b6bbec007b241211384ffe9cc272e70\"",
+      "hash_md5": "\"c1ecad444efffe53c0e5e0fb523d589d\"",
+      "description": "File: \"set-all-icons.ps1\" | Type: \"ps1\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"n/a\"",
+      "threat_type": "Trojan",
+      "severity": "High",
+      "hash_sha256": "\"6ca53ecb6e596b44e3caa5ba9f3d8f47093d9d04d1a55df5018356977fccdb36\"",
+      "hash_md5": "\"989b489d9758b5ade9f2092996d69c32\"",
+      "description": "File: \"powerpoint.bat\" | Type: \"bat\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"n/a\"",
+      "threat_type": "Trojan",
+      "severity": "High",
+      "hash_sha256": "\"bc36e729c6463e7120677c0d59b9d793401b320520201043048577d4d94cee28\"",
+      "hash_md5": "\"c99b37e5891d58a39581517ad00c5fa9\"",
+      "description": "File: \"bc36e729c6463e7120677c0d59b9d793401b320520201043048577d4d94cee28.bin\" | Type: \"sh\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"n/a\"",
+      "threat_type": "Trojan",
+      "severity": "High",
+      "hash_sha256": "\"62a4b82cadbf1da27c616c27dfa81a668439b36bd691e8f967104b24a7653996\"",
+      "hash_md5": "\"e6919f60f1921862cffd420e8af998f7\"",
+      "description": "File: \"62a4b82cadbf1da27c616c27dfa81a668439b36bd691e8f967104b24a7653996.bin\" | Type: \"elf\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"n/a\"",
+      "threat_type": "Trojan",
+      "severity": "High",
+      "hash_sha256": "\"88a9d97e1a5c132b1018c8a7f92f0c146cd86b8d85b438c220c760a9f2dc3706\"",
+      "hash_md5": "\"5e7afbc2588e40d0b30a8f45577ed6ad\"",
+      "description": "File: \"88a9d97e1a5c132b1018c8a7f92f0c146cd86b8d85b438c220c760a9f2dc3706.bin\" | Type: \"exe\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"Vidar\"",
+      "threat_type": "Trojan",
+      "severity": "High",
+      "hash_sha256": "\"08d463f435f20fd7f4f42ec3c9a5ca6f9e47059d7c93a3f002513d06a5f60b03\"",
+      "hash_md5": "\"56dc8b4906ff5d5995e35fd3316ff46a\"",
+      "description": "File: \"08d463f435f20fd7f4f42ec3c9a5ca6f9e47059d7c93a3f002513d06a5f60b03.bin\" | Type: \"exe\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"n/a\"",
+      "threat_type": "Trojan",
+      "severity": "High",
+      "hash_sha256": "\"1555f8caa68d8f9db9c19a3aef43acb516c9c850be4144f0bd3a2d5d37e77df0\"",
+      "hash_md5": "\"bd13493deb961a17d1a45b21113adef1\"",
+      "description": "File: \"2.vbs\" | Type: \"vbs\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"Mirai\"",
+      "threat_type": "Botnet/RAT",
+      "severity": "Critical",
+      "hash_sha256": "\"b304d47c357873c4259a69c82390abdb58e7861e6dfa9770d7742144dcea5dac\"",
+      "hash_md5": "\"12f05ee9c29d099e1967eb48651a6550\"",
+      "description": "File: \"b304d47c357873c4259a69c82390abdb58e7861e6dfa9770d7742144dcea5dac.elf\" | Type: \"elf\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"n/a\"",
+      "threat_type": "Trojan",
+      "severity": "High",
+      "hash_sha256": "\"cf7549739e71199fa46bedbce06a15605d54051380100e81d2421c6391980d9b\"",
+      "hash_md5": "\"613fb7ed9637e38182bd25a40cbcd1e8\"",
+      "description": "File: \"_br_dropper.vbs\" | Type: \"vbs\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"n/a\"",
+      "threat_type": "Trojan",
+      "severity": "High",
+      "hash_sha256": "\"e72f262ab63bbf92298349e3ad1e7d7c23441b80886e886f659a02250beca1a2\"",
+      "hash_md5": "\"68ead6214cb58b9576f73e0a5ca303f2\"",
+      "description": "File: \"FURY.bat\" | Type: \"bat\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"Mirai\"",
+      "threat_type": "Botnet/RAT",
+      "severity": "Critical",
+      "hash_sha256": "\"efcb6102a660423dd48d8fc198d4a4732b1a5d028477e25371d811d723c0fe03\"",
+      "hash_md5": "\"39c1015cbc91a4954d210915a47b29dd\"",
+      "description": "File: \"titan.mipsel\" | Type: \"elf\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"n/a\"",
+      "threat_type": "Trojan",
+      "severity": "High",
+      "hash_sha256": "\"b54aeb4be97cd1a8c99ed3cb973088884c962097762655ff27fcd32ec7e0af32\"",
+      "hash_md5": "\"61074ba1cabfd8db0548ccd740f90379\"",
+      "description": "File: \"k.php\" | Type: \"sh\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"Mirai\"",
+      "threat_type": "Botnet/RAT",
+      "severity": "Critical",
+      "hash_sha256": "\"032ff0fadec365884ba081187b5375c8b9b6b5c671843f9f9188bb7166be335a\"",
+      "hash_md5": "\"a3c5918459747db7ff9f9a45fba2d271\"",
+      "description": "File: \"titan.x32\" | Type: \"elf\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"Mirai\"",
+      "threat_type": "Botnet/RAT",
+      "severity": "Critical",
+      "hash_sha256": "\"905d1ddb63e317d4427b419159976711c9591b10f78c10ccdb9b8aefeaf681f7\"",
+      "hash_md5": "\"75d7f3382415ae7c957d3a66d4b5489d\"",
+      "description": "File: \"titan.sh4\" | Type: \"elf\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"Urelas\"",
+      "threat_type": "Trojan",
+      "severity": "High",
+      "hash_sha256": "\"c108a1e19763ae5c39fe0d768253cfb16a3b9731dced076782268da84527117f\"",
+      "hash_md5": "\"2ad704d002100e5f9fadf7c8d6c9d005\"",
+      "description": "File: \"2026-09-09_2ad704d002100e5f9fadf7c8d6c9d005_amadey_elex_glassworm_njrat_rhadamanthys_smoke-loader_stealc_stop_tofsee.exe\" | Type: \"exe\" | Source: abuse.ch"
     },
     {
       "threat_name": "AbuseCH.\"n/a\"",
@@ -109,31 +645,31 @@
       "description": "File: \"wr.php\" | Type: \"sh\" | Source: abuse.ch"
     },
     {
-      "threat_name": "AbuseCH.\"n/a\"",
-      "threat_type": "Trojan",
+      "threat_name": "AbuseCH.\"SalatStealer\"",
+      "threat_type": "InfoStealer",
       "severity": "High",
       "hash_sha256": "\"51da755fef7869159723b7022476e129db585ccc643e25cc96de070838b9f66b\"",
       "hash_md5": "\"c8b0067b28f8fa7e774b85e230b15991\"",
       "description": "File: \"file\" | Type: \"exe\" | Source: abuse.ch"
     },
     {
-      "threat_name": "AbuseCH.\"n/a\"",
-      "threat_type": "Trojan",
+      "threat_name": "AbuseCH.\"PureLogsStealer\"",
+      "threat_type": "InfoStealer",
       "severity": "High",
       "hash_sha256": "\"25443ccdf2ed0da0d14bda3f9160e6adeebd4b7d9e947bdca8c990a45595122d\"",
       "hash_md5": "\"988f20f1bf7bae589102f6fc83f45224\"",
       "description": "File: \"Purchase_PO-2026-0145.pdf.exe\" | Type: \"exe\" | Source: abuse.ch"
     },
     {
-      "threat_name": "AbuseCH.\"n/a\"",
-      "threat_type": "Trojan",
+      "threat_name": "AbuseCH.\"PureLogsStealer\"",
+      "threat_type": "InfoStealer",
       "severity": "High",
       "hash_sha256": "\"f5909238ccb916af6b8260268318f58aee16961d42699521de049f18f0743787\"",
       "hash_md5": "\"2c9a835f41069f01db46d3d505b1919c\"",
       "description": "File: \"SecuriteInfo.com.MalwareX-gen.47527872\" | Type: \"exe\" | Source: abuse.ch"
     },
     {
-      "threat_name": "AbuseCH.\"n/a\"",
+      "threat_name": "AbuseCH.\"GLOBAL\"",
       "threat_type": "Trojan",
       "severity": "High",
       "hash_sha256": "\"2436a177565db40038ce42446b01614e8781e62cd1da618a62fdc9cc31d1195f\"",
@@ -373,9 +909,9 @@
       "description": "File: \"QUOTE 2026-009-036.js\" | Type: \"js\" | Source: abuse.ch"
     },
     {
-      "threat_name": "AbuseCH.\"n/a\"",
-      "threat_type": "Trojan",
-      "severity": "High",
+      "threat_name": "AbuseCH.\"LxBaseRAT\"",
+      "threat_type": "Botnet/RAT",
+      "severity": "Critical",
       "hash_sha256": "\"ab35fae5a6142cd1ece0556f6d16bb2480e699accd643d7c15f7cedf992fbc70\"",
       "hash_md5": "\"c9099661298dec14d993b54830d6ecb6\"",
       "description": "File: \"OC-97364.js\" | Type: \"js\" | Source: abuse.ch"
@@ -397,7 +933,7 @@
       "description": "File: \"PAYMENTS.JS\" | Type: \"js\" | Source: abuse.ch"
     },
     {
-      "threat_name": "AbuseCH.\"n/a\"",
+      "threat_name": "AbuseCH.\"VIPKeylogger\"",
       "threat_type": "Trojan",
       "severity": "High",
       "hash_sha256": "\"03ad2fb00fda119f1ccc4a52622aea505965332d5744fd6d1f502daf7a8f39f8\"",
@@ -453,8 +989,8 @@
       "description": "File: \"doc0090092026090909.JS\" | Type: \"js\" | Source: abuse.ch"
     },
     {
-      "threat_name": "AbuseCH.\"n/a\"",
-      "threat_type": "Trojan",
+      "threat_name": "AbuseCH.\"XWorm\"",
+      "threat_type": "Worm",
       "severity": "High",
       "hash_sha256": "\"1c24c06835417f3a502b06a4d248799c19cddb5c348c43a7982eb40c45ba6546\"",
       "hash_md5": "\"8cd4b1149a00c34feb3d4685b217ede8\"",
@@ -629,7 +1165,7 @@
       "description": "File: \"PO.js\" | Type: \"js\" | Source: abuse.ch"
     },
     {
-      "threat_name": "AbuseCH.\"n/a\"",
+      "threat_name": "AbuseCH.\"Formbook\"",
       "threat_type": "Trojan",
       "severity": "High",
       "hash_sha256": "\"d8d241938d1f211f4678fc9929cbea0b3316fc3f0b2119f53ea8a92a23bccc35\"",
@@ -677,8 +1213,8 @@
       "description": "File: \"SWIFT-103-27082026.JS\" | Type: \"js\" | Source: abuse.ch"
     },
     {
-      "threat_name": "AbuseCH.\"n/a\"",
-      "threat_type": "Trojan",
+      "threat_name": "AbuseCH.\"PhantomStealer\"",
+      "threat_type": "InfoStealer",
       "severity": "High",
       "hash_sha256": "\"5ad59fde4f2e3533175681b8399b025500bf89e3185744df01f284cdd20638af\"",
       "hash_md5": "\"1f14b916f6da5f36ff84dd88693b5d45\"",
@@ -4301,540 +4837,276 @@
       "description": "File: \"ba5cf6adc816afc033091f830777d7c89c7c130fbd3817b649501bc5fc681202.elf\" | Type: \"elf\" | Source: abuse.ch"
     },
     {
-      "threat_name": "AbuseCH.\"Mirai\"",
-      "threat_type": "Botnet/RAT",
-      "severity": "Critical",
-      "hash_sha256": "\"ae9d89f2117fab0d0cf80c3900f349c09ecbbf822dc0b5d20ffedb7e183191a2\"",
-      "hash_md5": "\"ac051d6f05ecf77bafd886c68dd92623\"",
-      "description": "File: \"arm4\" | Type: \"elf\" | Source: abuse.ch"
-    },
-    {
-      "threat_name": "AbuseCH.\"Mirai\"",
-      "threat_type": "Botnet/RAT",
-      "severity": "Critical",
-      "hash_sha256": "\"654af773cded239c857900896dba786a64b567cce93d12019244bb7de7341555\"",
-      "hash_md5": "\"af91a16deeb7699f57b87318dd2b61cc\"",
-      "description": "File: \"arm4\" | Type: \"elf\" | Source: abuse.ch"
-    },
-    {
-      "threat_name": "AbuseCH.\"Mirai\"",
-      "threat_type": "Botnet/RAT",
-      "severity": "Critical",
-      "hash_sha256": "\"217029b3a21a5aba040e836cdb59fb5e7e295119e605ea9a628b791e2c213b51\"",
-      "hash_md5": "\"aebd2804c9cc052a60f9f500c933338c\"",
-      "description": "File: \"arm6\" | Type: \"elf\" | Source: abuse.ch"
-    },
-    {
-      "threat_name": "AbuseCH.\"Mirai\"",
-      "threat_type": "Botnet/RAT",
-      "severity": "Critical",
-      "hash_sha256": "\"a7155d37b823212b5db29c531d63f13bb30921513dc0dd9ac9e7b4cbfc97bfcf\"",
-      "hash_md5": "\"20addd1a8cf4ee8c96a3deefda6e5d61\"",
-      "description": "File: \"arm6\" | Type: \"elf\" | Source: abuse.ch"
-    },
-    {
-      "threat_name": "AbuseCH.\"Mirai\"",
-      "threat_type": "Botnet/RAT",
-      "severity": "Critical",
-      "hash_sha256": "\"0289d4324ac019dd949415ff1d4ec2d9441b360308911a53e7f4fa0c35a2dd0a\"",
-      "hash_md5": "\"67ca6921811b51d1e47dff2e9f20da07\"",
-      "description": "File: \"boatnet.arm7\" | Type: \"elf\" | Source: abuse.ch"
-    },
-    {
-      "threat_name": "AbuseCH.\"Mirai\"",
-      "threat_type": "Botnet/RAT",
-      "severity": "Critical",
-      "hash_sha256": "\"3e64858dced7a1eea58505529e3cd3183cd60697e160af45b8f44acb3469657a\"",
-      "hash_md5": "\"30a67938cb8988cd2398ec58afaaa9f3\"",
-      "description": "File: \"sora.mips\" | Type: \"elf\" | Source: abuse.ch"
-    },
-    {
-      "threat_name": "AbuseCH.\"Mirai\"",
-      "threat_type": "Botnet/RAT",
-      "severity": "Critical",
-      "hash_sha256": "\"2a9f90236cce5398627aeee81f008c36023c314ec6e213869f518f2433a76300\"",
-      "hash_md5": "\"54e0fca346e69a569d0390b8569a55e9\"",
-      "description": "File: \"main_arm6\" | Type: \"elf\" | Source: abuse.ch"
-    },
-    {
-      "threat_name": "AbuseCH.\"Mirai\"",
-      "threat_type": "Botnet/RAT",
-      "severity": "Critical",
-      "hash_sha256": "\"b57495e33d631c2e74b8896c3b715f06bdea430c83c4ad9b349bc9d3cb3b1a66\"",
-      "hash_md5": "\"cf97076567a659c5333a9e5a0241aab9\"",
-      "description": "File: \"main_spc\" | Type: \"elf\" | Source: abuse.ch"
-    },
-    {
-      "threat_name": "AbuseCH.\"Mirai\"",
-      "threat_type": "Botnet/RAT",
-      "severity": "Critical",
-      "hash_sha256": "\"f3972f6e2d50e1b28b83997a9e29cabebf983121195fa30b8d2f1ea984998ca4\"",
-      "hash_md5": "\"cf72cfed73b5314f2dc95be1888cd61b\"",
-      "description": "File: \"main_x86_64\" | Type: \"elf\" | Source: abuse.ch"
-    },
-    {
-      "threat_name": "AbuseCH.\"Mirai\"",
-      "threat_type": "Botnet/RAT",
-      "severity": "Critical",
-      "hash_sha256": "\"c13e3c3d658d17838c0b09f64abe9a8ad35e71cb4219dfea5829eaffdf6e9715\"",
-      "hash_md5": "\"73608b61a6d4b230dbd3b3cb0661b2d7\"",
-      "description": "File: \"sora.arm6\" | Type: \"elf\" | Source: abuse.ch"
-    },
-    {
-      "threat_name": "AbuseCH.\"Mirai\"",
-      "threat_type": "Botnet/RAT",
-      "severity": "Critical",
-      "hash_sha256": "\"8113b9d71f153627f3dcd057f63639ef392dbd3389f5eea32e7eef3b104e07aa\"",
-      "hash_md5": "\"284c4431ef1c6dad607648c53604b507\"",
-      "description": "File: \"sora.mpsl\" | Type: \"elf\" | Source: abuse.ch"
-    },
-    {
-      "threat_name": "AbuseCH.\"Mirai\"",
-      "threat_type": "Botnet/RAT",
-      "severity": "Critical",
-      "hash_sha256": "\"34307d43ad3de41e8913fead533bc27f33e458b83f0107053b822fbb5a6f1c57\"",
-      "hash_md5": "\"0e87a503e736cf059b3443606ef1df7f\"",
-      "description": "File: \"sora.x86\" | Type: \"elf\" | Source: abuse.ch"
-    },
-    {
-      "threat_name": "AbuseCH.\"Mirai\"",
-      "threat_type": "Botnet/RAT",
-      "severity": "Critical",
-      "hash_sha256": "\"7057e30367a3531968c465b69eb386aa86cf2396d45a04f52a32cf762e998a0c\"",
-      "hash_md5": "\"9e1d123511abcb34a4028941da0dbdbb\"",
-      "description": "File: \"main_mpsl\" | Type: \"elf\" | Source: abuse.ch"
-    },
-    {
-      "threat_name": "AbuseCH.\"Mirai\"",
-      "threat_type": "Botnet/RAT",
-      "severity": "Critical",
-      "hash_sha256": "\"9e4413646e9515b8dd5edcb2f6d57d13a5e301f5635c762ba91b623bf0d439c8\"",
-      "hash_md5": "\"61fbb51db995c823d839f1971e284277\"",
-      "description": "File: \"sora.arm7\" | Type: \"elf\" | Source: abuse.ch"
-    },
-    {
-      "threat_name": "AbuseCH.\"Mirai\"",
-      "threat_type": "Botnet/RAT",
-      "severity": "Critical",
-      "hash_sha256": "\"8f642489cee2a2ed21e6498d3cee13decad32834d24e094533b10d499f64b193\"",
-      "hash_md5": "\"f4671a8dbe7ad18d92b578e41dc5ec2e\"",
-      "description": "File: \"sora.ppc\" | Type: \"elf\" | Source: abuse.ch"
-    },
-    {
-      "threat_name": "AbuseCH.\"Mirai\"",
-      "threat_type": "Botnet/RAT",
-      "severity": "Critical",
-      "hash_sha256": "\"8120fea65552acb805e7db469a6fba74dd87a4fd212c4b53fbb829bc26f174a9\"",
-      "hash_md5": "\"360ea872c10cf47b4d5fb8301fbeb8ca\"",
-      "description": "File: \"sora.spc\" | Type: \"elf\" | Source: abuse.ch"
-    },
-    {
-      "threat_name": "AbuseCH.\"Mirai\"",
-      "threat_type": "Botnet/RAT",
-      "severity": "Critical",
-      "hash_sha256": "\"6c8a287385b29abae710af6b755b8a5a5ad56ede36b3b0d4ca31cc167bbecea7\"",
-      "hash_md5": "\"484827950743abb12b067a7875d8adc0\"",
-      "description": "File: \"main_x86\" | Type: \"elf\" | Source: abuse.ch"
-    },
-    {
-      "threat_name": "AbuseCH.\"Mirai\"",
-      "threat_type": "Botnet/RAT",
-      "severity": "Critical",
-      "hash_sha256": "\"23231395c4e817e8bbd3aaf5c6a4bb982c2283c2d9057d9e9c9854e4b74932d0\"",
-      "hash_md5": "\"960d8be0ad2ed0bdd00837738a681bd7\"",
-      "description": "File: \"sora.arm5\" | Type: \"elf\" | Source: abuse.ch"
-    },
-    {
-      "threat_name": "AbuseCH.\"Mirai\"",
-      "threat_type": "Botnet/RAT",
-      "severity": "Critical",
-      "hash_sha256": "\"fea2567c15cfa36d7a159525519358c255d73330bd0f9304f2c9557eee002c0c\"",
-      "hash_md5": "\"b0b90f5c4543d97ebc2ae7b86b63681d\"",
-      "description": "File: \"boatnet.arm7\" | Type: \"elf\" | Source: abuse.ch"
-    },
-    {
-      "threat_name": "AbuseCH.\"n/a\"",
-      "threat_type": "Trojan",
+      "threat_name": "ThreatFox.py.venus_stealer",
+      "threat_type": "Trojan/Payload",
       "severity": "High",
-      "hash_sha256": "\"015be573b9de2b8a44cbe8ff282b897e178cb11307af56fc1856f7c2d9f6c434\"",
-      "hash_md5": "\"60f1c1db16e046b9039797febeb7c6f4\"",
-      "description": "File: \"wr.php\" | Type: \"sh\" | Source: abuse.ch"
+      "hash_sha256": "0960143403b7d6d8bbaed0f1652e83d6376c3cfe1fa6fe63b080b1fab97eb5a6",
+      "hash_md5": "",
+      "description": "Threat: py.venus_stealer | Source: threatfox.abuse.ch"
     },
     {
-      "threat_name": "AbuseCH.\"Mirai\"",
-      "threat_type": "Botnet/RAT",
-      "severity": "Critical",
-      "hash_sha256": "\"9c472fe23c89c20424a6d24a27d87d847e8a4a514a4729e92c9f10b3b6fde67d\"",
-      "hash_md5": "\"7d1ca1fe746c7a259a6db9ccef068e5c\"",
-      "description": "File: \"sh4\" | Type: \"elf\" | Source: abuse.ch"
-    },
-    {
-      "threat_name": "AbuseCH.\"n/a\"",
-      "threat_type": "Trojan",
+      "threat_name": "ThreatFox.py.venus_stealer",
+      "threat_type": "Trojan/Payload",
       "severity": "High",
-      "hash_sha256": "\"da4561c8596384aabfb7c8a19114600c2515592bcfcb59b9d58c52da13c415c3\"",
-      "hash_md5": "\"6f38368e958d8875ec36d703431d0e15\"",
-      "description": "File: \"cbjew8jc.exe\" | Type: \"exe\" | Source: abuse.ch"
+      "hash_sha256": "",
+      "hash_md5": "e728c199f2f1ad356fcbee25a5475c74",
+      "description": "Threat: py.venus_stealer | Source: threatfox.abuse.ch"
     },
     {
-      "threat_name": "AbuseCH.\"n/a\"",
-      "threat_type": "Trojan",
+      "threat_name": "ThreatFox.win.formbook",
+      "threat_type": "Trojan/Payload",
       "severity": "High",
-      "hash_sha256": "\"a78c9cfdd6b80d1aea60021f68d9add17387d161250b7319a67b492595b53701\"",
-      "hash_md5": "\"2ac5adc70ed2261a14e61cc78004b0a1\"",
-      "description": "File: \"ok\" | Type: \"sh\" | Source: abuse.ch"
+      "hash_sha256": "210ae656df91ca6fe5cca2c03f737716637537e6b8d9e0476bafc268ceb64c32",
+      "hash_md5": "",
+      "description": "Threat: win.formbook | Source: threatfox.abuse.ch"
     },
     {
-      "threat_name": "AbuseCH.\"Vidar\"",
-      "threat_type": "Trojan",
+      "threat_name": "ThreatFox.win.formbook",
+      "threat_type": "Trojan/Payload",
       "severity": "High",
-      "hash_sha256": "\"b2a566ba1fc85d309fcc4aff31e05515773b71a44a4929785d8b1df5c0631e9f\"",
-      "hash_md5": "\"3c46d01a0d34f033129c5ea4bfd24007\"",
-      "description": "File: \"Project_v1.2.4.windows-x64.exe\" | Type: \"exe\" | Source: abuse.ch"
+      "hash_sha256": "",
+      "hash_md5": "8594a6fe0265fa1629c16411f0fd3d77",
+      "description": "Threat: win.formbook | Source: threatfox.abuse.ch"
     },
     {
-      "threat_name": "AbuseCH.\"n/a\"",
-      "threat_type": "Trojan",
+      "threat_name": "ThreatFox.win.vidar",
+      "threat_type": "Trojan/Payload",
       "severity": "High",
-      "hash_sha256": "\"3ee0c2308832ad543df4d64cdaf834bc27a09750e662cc889e56e203eaa50f92\"",
-      "hash_md5": "\"159199d5c718a48c71be5813a1696eda\"",
-      "description": "File: \"Setup_app.exe\" | Type: \"exe\" | Source: abuse.ch"
+      "hash_sha256": "863866fa9ffff1dd6e4d7bba34f127c9847e444078203fd2490a16fa08e91b92",
+      "hash_md5": "",
+      "description": "Threat: win.vidar | Source: threatfox.abuse.ch"
     },
     {
-      "threat_name": "AbuseCH.\"n/a\"",
-      "threat_type": "Trojan",
+      "threat_name": "ThreatFox.win.vidar",
+      "threat_type": "Trojan/Payload",
       "severity": "High",
-      "hash_sha256": "\"26d603d448c8cb458e61a1fd10f44d8a4b2426f99b318e3ddcb8b05b2724aea5\"",
-      "hash_md5": "\"9ce97e7494107ac78ca689464d7c28c9\"",
-      "description": "File: \"ppc\" | Type: \"elf\" | Source: abuse.ch"
+      "hash_sha256": "",
+      "hash_md5": "2aad0c2944754979c4ea0b0d0461efed",
+      "description": "Threat: win.vidar | Source: threatfox.abuse.ch"
     },
     {
-      "threat_name": "AbuseCH.\"n/a\"",
-      "threat_type": "Trojan",
+      "threat_name": "ThreatFox.win.vidar",
+      "threat_type": "Trojan/Payload",
       "severity": "High",
-      "hash_sha256": "\"00d892c3c2f3d65cde491e28ac5c0661c294c56dd8ec09e36768d7c541a1d7bd\"",
-      "hash_md5": "\"13c8bdc7a2f0cfd81594705c3305a463\"",
-      "description": "File: \"ppc\" | Type: \"elf\" | Source: abuse.ch"
+      "hash_sha256": "5a24a5a7e387ec5de6d8fc95e5bf455efae511d0f981605b0b232c6f6260f5cb",
+      "hash_md5": "",
+      "description": "Threat: win.vidar | Source: threatfox.abuse.ch"
     },
     {
-      "threat_name": "AbuseCH.\"SalatStealer\"",
-      "threat_type": "InfoStealer",
+      "threat_name": "ThreatFox.win.vidar",
+      "threat_type": "Trojan/Payload",
       "severity": "High",
-      "hash_sha256": "\"732416c64e26d9547615835d81dce1b617c8b7f8b7ce04c7931c1b2c96d19085\"",
-      "hash_md5": "\"697277a9582579cb2184475c82064e55\"",
-      "description": "File: \"Bootstapsrer.exe\" | Type: \"exe\" | Source: abuse.ch"
+      "hash_sha256": "",
+      "hash_md5": "5e1e402e90339348be7a2a68b60f55e5",
+      "description": "Threat: win.vidar | Source: threatfox.abuse.ch"
     },
     {
-      "threat_name": "AbuseCH.\"n/a\"",
-      "threat_type": "Trojan",
+      "threat_name": "ThreatFox.win.redline_stealer",
+      "threat_type": "Trojan/Payload",
       "severity": "High",
-      "hash_sha256": "\"b4434af6db480ff74eff2fe6d6de7bcdf091a4ec463437353c6932315a9e996b\"",
-      "hash_md5": "\"fda1c8c636ab3163f7beefa12cbbc0a9\"",
-      "description": "File: \"installer.exe\" | Type: \"exe\" | Source: abuse.ch"
+      "hash_sha256": "",
+      "hash_md5": "8c82f607f14980a6962993f8800cdf35",
+      "description": "Threat: win.redline_stealer | Source: threatfox.abuse.ch"
     },
     {
-      "threat_name": "AbuseCH.\"AgentTesla\"",
-      "threat_type": "InfoStealer",
+      "threat_name": "ThreatFox.win.vidar",
+      "threat_type": "Trojan/Payload",
       "severity": "High",
-      "hash_sha256": "\"f55b48f3ab03d6e88acd9f0397cbba733f4af684ca3024d6729937d217de449a\"",
-      "hash_md5": "\"1e4754929117236e0f734120bc5db952\"",
-      "description": "File: \"RFQ2009918.js\" | Type: \"js\" | Source: abuse.ch"
+      "hash_sha256": "e686c2dcffe94fb122df2e81debdab3e3a973c9a3bfcd06854d2a99dd5605cd0",
+      "hash_md5": "",
+      "description": "Threat: win.vidar | Source: threatfox.abuse.ch"
     },
     {
-      "threat_name": "AbuseCH.\"RemusStealer\"",
-      "threat_type": "InfoStealer",
+      "threat_name": "ThreatFox.win.vidar",
+      "threat_type": "Trojan/Payload",
       "severity": "High",
-      "hash_sha256": "\"a5c49d510384172103726857fd054cb8b28ea950d7d80497e785304af80002db\"",
-      "hash_md5": "\"9ff63cf7a5ea46e7736905a5e5cbbe49\"",
-      "description": "File: \"xcutorsLoader.exe\" | Type: \"exe\" | Source: abuse.ch"
+      "hash_sha256": "",
+      "hash_md5": "3d305fab02241ac166687d9e3b1e1705",
+      "description": "Threat: win.vidar | Source: threatfox.abuse.ch"
     },
     {
-      "threat_name": "AbuseCH.\"n/a\"",
-      "threat_type": "Trojan",
+      "threat_name": "ThreatFox.py.venus_stealer",
+      "threat_type": "Trojan/Payload",
       "severity": "High",
-      "hash_sha256": "\"ea2c5fc96fc0b8000136c19c83eb545c96bf382af019e177f57d83df72bb82b5\"",
-      "hash_md5": "\"6bb41610c0a950f67c0eb4cfac160130\"",
-      "description": "File: \"file\" | Type: \"exe\" | Source: abuse.ch"
+      "hash_sha256": "",
+      "hash_md5": "f4e051ee49a9559f6d71c7699226e3fb",
+      "description": "Threat: py.venus_stealer | Source: threatfox.abuse.ch"
     },
     {
-      "threat_name": "AbuseCH.\"n/a\"",
-      "threat_type": "Trojan",
+      "threat_name": "ThreatFox.win.redline_stealer",
+      "threat_type": "Trojan/Payload",
       "severity": "High",
-      "hash_sha256": "\"dd9cd43c2d0cc3da45ec97302aab4b4c7f84b6e9921396de70244fa9eb8aaec0\"",
-      "hash_md5": "\"55c7a2cfbc9cfad1ba2f0279d1838e7f\"",
-      "description": "File: \"k.php\" | Type: \"sh\" | Source: abuse.ch"
+      "hash_sha256": "953b808caf22274577e975b21404fcd2b69fb3e8ad266f175b100612305d5575",
+      "hash_md5": "",
+      "description": "Threat: win.redline_stealer | Source: threatfox.abuse.ch"
     },
     {
-      "threat_name": "AbuseCH.\"RemusStealer\"",
-      "threat_type": "InfoStealer",
+      "threat_name": "ThreatFox.win.vidar",
+      "threat_type": "Trojan/Payload",
       "severity": "High",
-      "hash_sha256": "\"483ad5006dff93965227094ad8547f8128313c8c4695b9453145e6978fa863d0\"",
-      "hash_md5": "\"114017d961260d5e8b019bea325dd276\"",
-      "description": "File: \"Helper.exe\" | Type: \"exe\" | Source: abuse.ch"
+      "hash_sha256": "",
+      "hash_md5": "1e1d111b87fc523c8b46b13e0300bcc0",
+      "description": "Threat: win.vidar | Source: threatfox.abuse.ch"
     },
     {
-      "threat_name": "AbuseCH.\"Vidar\"",
-      "threat_type": "Trojan",
+      "threat_name": "ThreatFox.py.venus_stealer",
+      "threat_type": "Trojan/Payload",
       "severity": "High",
-      "hash_sha256": "\"e43782136726b254c25fa86638cac6679861ad657004416c846a48a41299d771\"",
-      "hash_md5": "\"e083ba5de7aaa69bf9d20d9b2456f82e\"",
-      "description": "File: \"e43782136726b254c25fa86638cac6679861ad657004416c846a48a41299d771.bin\" | Type: \"exe\" | Source: abuse.ch"
+      "hash_sha256": "a84bef9ffa7f4ee4c682a75f1d0480c8b5cd233e355b885b61ef4a52eaf65dfb",
+      "hash_md5": "",
+      "description": "Threat: py.venus_stealer | Source: threatfox.abuse.ch"
     },
     {
-      "threat_name": "AbuseCH.\"MassLogger\"",
-      "threat_type": "Trojan",
+      "threat_name": "ThreatFox.win.vidar",
+      "threat_type": "Trojan/Payload",
       "severity": "High",
-      "hash_sha256": "\"2d81789280f50f69d01df4e1a32153ab5317f4451accddf27f1c00e17f5ed523\"",
-      "hash_md5": "\"dcb460b768f062e3847fba9d37d79a4e\"",
-      "description": "File: \"cotizaci\u00c3\u00b3n.js\" | Type: \"js\" | Source: abuse.ch"
+      "hash_sha256": "",
+      "hash_md5": "2004d8d9525445445121fb47bbbf4b00",
+      "description": "Threat: win.vidar | Source: threatfox.abuse.ch"
     },
     {
-      "threat_name": "AbuseCH.\"n/a\"",
-      "threat_type": "Trojan",
+      "threat_name": "ThreatFox.win.vidar",
+      "threat_type": "Trojan/Payload",
       "severity": "High",
-      "hash_sha256": "\"7c83a1922bb3cdfdef4317b7bd933f2fab4cc6918a1af2e8f27852798f1bc7de\"",
-      "hash_md5": "\"9da811d1f21f7eec1faaa22d43c45b9d\"",
-      "description": "File: \"install.exe\" | Type: \"exe\" | Source: abuse.ch"
+      "hash_sha256": "e9951dbc13b4fb5a2fe7b26783d8495131edf77b4028a8bebf25ed02beaa8b5b",
+      "hash_md5": "",
+      "description": "Threat: win.vidar | Source: threatfox.abuse.ch"
     },
     {
-      "threat_name": "AbuseCH.\"n/a\"",
-      "threat_type": "Trojan",
+      "threat_name": "ThreatFox.win.njrat",
+      "threat_type": "Trojan/Payload",
       "severity": "High",
-      "hash_sha256": "\"bbde68e5b2ec151998c7b5958597ebc0f30758404645bd1d689b714db8ac4a4a\"",
-      "hash_md5": "\"94bf32f2265cc7e475284322df88ca94\"",
-      "description": "File: \"k.php\" | Type: \"sh\" | Source: abuse.ch"
+      "hash_sha256": "",
+      "hash_md5": "29d87ed8ebc9b05426800ad3c13a8fcd",
+      "description": "Threat: win.njrat | Source: threatfox.abuse.ch"
     },
     {
-      "threat_name": "AbuseCH.\"n/a\"",
-      "threat_type": "Trojan",
+      "threat_name": "ThreatFox.win.vidar",
+      "threat_type": "Trojan/Payload",
       "severity": "High",
-      "hash_sha256": "\"a2fa794887ecb96a4b40389fe152e52707c021c86f63c4430557e7c286840b96\"",
-      "hash_md5": "\"9561f827804a198e3be1b9342c660981\"",
-      "description": "File: \"a2fa794887ecb96a4b40389fe152e52707c021c86f63c4430557e7c286840b96.exe\" | Type: \"exe\" | Source: abuse.ch"
+      "hash_sha256": "67f1a3186b9c1e826ab34fb4c18a6a9c85bd5986e1214f80004c07c57cbfaa49",
+      "hash_md5": "",
+      "description": "Threat: win.vidar | Source: threatfox.abuse.ch"
     },
     {
-      "threat_name": "AbuseCH.\"n/a\"",
-      "threat_type": "Trojan",
+      "threat_name": "ThreatFox.win.vidar",
+      "threat_type": "Trojan/Payload",
       "severity": "High",
-      "hash_sha256": "\"c051af563dbbcf504cb783fda30143faca1796b412b7fc248f9a8e39c07f4dd4\"",
-      "hash_md5": "\"5a7ead90545a120a0c47c0495115b05d\"",
-      "description": "File: \"Full_App_Setup_v9.8.4.exe\" | Type: \"exe\" | Source: abuse.ch"
+      "hash_sha256": "7e6c18d1f36ea881e2029160438efad994040e41376e9b664858725523b659cd",
+      "hash_md5": "",
+      "description": "Threat: win.vidar | Source: threatfox.abuse.ch"
     },
     {
-      "threat_name": "AbuseCH.\"n/a\"",
-      "threat_type": "Trojan",
+      "threat_name": "ThreatFox.win.vidar",
+      "threat_type": "Trojan/Payload",
       "severity": "High",
-      "hash_sha256": "\"2d41372a3ee70895ee6be05e3a94d460dc9a2feb61b9fb907f3155e0c120c992\"",
-      "hash_md5": "\"10b95d1594f17d21ac233990ea777c6d\"",
-      "description": "File: \"a7m2qx.sh\" | Type: \"sh\" | Source: abuse.ch"
+      "hash_sha256": "",
+      "hash_md5": "03ff2eb2b1d54c66b7b8ee7ad84f13c6",
+      "description": "Threat: win.vidar | Source: threatfox.abuse.ch"
     },
     {
-      "threat_name": "AbuseCH.\"n/a\"",
-      "threat_type": "Trojan",
+      "threat_name": "ThreatFox.win.njrat",
+      "threat_type": "Trojan/Payload",
       "severity": "High",
-      "hash_sha256": "\"db466c97f5a2810533136bb65be98d76658ca2182404e9b137b17c6e3d4ca33b\"",
-      "hash_md5": "\"8cc439e875ff8020bb5429d8d6061080\"",
-      "description": "File: \"wr.php\" | Type: \"sh\" | Source: abuse.ch"
+      "hash_sha256": "c92f2e4f8ebfa4a61f3b17663076cb8513f26bc60fbdbe6faea232f621b6e802",
+      "hash_md5": "",
+      "description": "Threat: win.njrat | Source: threatfox.abuse.ch"
     },
     {
-      "threat_name": "AbuseCH.\"CoinMiner\"",
-      "threat_type": "CoinMiner",
+      "threat_name": "ThreatFox.py.creal_stealer",
+      "threat_type": "Trojan/Payload",
       "severity": "High",
-      "hash_sha256": "\"44593e8065a0f6c19d3a8fe2c49f13d1d202c2f78cf8a6157e01ca6d15164298\"",
-      "hash_md5": "\"0cfcec18fb50d45746ac6c1f61ff7042\"",
-      "description": "File: \"44593e8065a0f6c19d3a8fe2c49f13d1d202c2f78cf8a6157e01ca6d15164298.exe\" | Type: \"exe\" | Source: abuse.ch"
+      "hash_sha256": "f0ac5a212ee1e3acb68b27dfdd8e3b9f46be4d6d49ec0e843b2c0cb832145873",
+      "hash_md5": "",
+      "description": "Threat: py.creal_stealer | Source: threatfox.abuse.ch"
     },
     {
-      "threat_name": "AbuseCH.\"RemusStealer\"",
-      "threat_type": "InfoStealer",
+      "threat_name": "ThreatFox.py.creal_stealer",
+      "threat_type": "Trojan/Payload",
       "severity": "High",
-      "hash_sha256": "\"8b24ee5329fe396f29fcd3476c4ed229b631fd810527dbb52aa7cf3f2c4e1c1c\"",
-      "hash_md5": "\"ab3186230028fa25d3c80a61a5c87324\"",
-      "description": "File: \"Installer.exe\" | Type: \"exe\" | Source: abuse.ch"
+      "hash_sha256": "",
+      "hash_md5": "90606f943f0360cda289735b31ef836f",
+      "description": "Threat: py.creal_stealer | Source: threatfox.abuse.ch"
     },
     {
-      "threat_name": "AbuseCH.\"Vidar\"",
-      "threat_type": "Trojan",
+      "threat_name": "ThreatFox.win.krakenkeylogger",
+      "threat_type": "Trojan/Payload",
       "severity": "High",
-      "hash_sha256": "\"1645b87df08aada4e4ce352ca9f146626d32138a093ea311090eddf1fedec9f2\"",
-      "hash_md5": "\"99e31693118326b81e513da85e448361\"",
-      "description": "File: \"Installer.exe\" | Type: \"exe\" | Source: abuse.ch"
+      "hash_sha256": "",
+      "hash_md5": "b7d29e94613df7d42bd2f882e77a3f85",
+      "description": "Threat: win.krakenkeylogger | Source: threatfox.abuse.ch"
     },
     {
-      "threat_name": "AbuseCH.\"n/a\"",
-      "threat_type": "Trojan",
+      "threat_name": "ThreatFox.win.njrat",
+      "threat_type": "Trojan/Payload",
       "severity": "High",
-      "hash_sha256": "\"06a82fe1700db9bf3ceda7ec8cd8d6f3923919bacb0c78d54e1477f92e74cffa\"",
-      "hash_md5": "\"f2ac62849ab78fb984af92b99c721991\"",
-      "description": "File: \"file\" | Type: \"exe\" | Source: abuse.ch"
+      "hash_sha256": "54fced67df11a75293cb6620d57101aca7dea30fcafe9ff40df3626388328d9e",
+      "hash_md5": "",
+      "description": "Threat: win.njrat | Source: threatfox.abuse.ch"
     },
     {
-      "threat_name": "AbuseCH.\"n/a\"",
-      "threat_type": "Trojan",
+      "threat_name": "ThreatFox.win.njrat",
+      "threat_type": "Trojan/Payload",
       "severity": "High",
-      "hash_sha256": "\"95e96945310aed6a31d125547ba0a71accb4a2053015d392e0b94f28a948f866\"",
-      "hash_md5": "\"b47944e345e5bccbb3cf4d66b1ad054c\"",
-      "description": "File: \"1.exe\" | Type: \"exe\" | Source: abuse.ch"
+      "hash_sha256": "",
+      "hash_md5": "30f23cd8c071deac110bbaa70e4260cc",
+      "description": "Threat: win.njrat | Source: threatfox.abuse.ch"
     },
     {
-      "threat_name": "AbuseCH.\"Mirai\"",
-      "threat_type": "Botnet/RAT",
-      "severity": "Critical",
-      "hash_sha256": "\"482b132bcb8ead87a7f13c3441d76a1a14cfc27c64ff85783bb0ccb4c7e5a9dd\"",
-      "hash_md5": "\"cdc637c982ceabf71269c6b34ab2baef\"",
-      "description": "File: \"arm7\" | Type: \"elf\" | Source: abuse.ch"
-    },
-    {
-      "threat_name": "AbuseCH.\"Mirai\"",
-      "threat_type": "Botnet/RAT",
-      "severity": "Critical",
-      "hash_sha256": "\"9eb52cf2de2b3770c5884fbc88b0772aed3953b9e36ab489223f9b7ab994c59d\"",
-      "hash_md5": "\"00c9da969663f4db1991b7bb62c9bf0c\"",
-      "description": "File: \"arm7\" | Type: \"elf\" | Source: abuse.ch"
-    },
-    {
-      "threat_name": "AbuseCH.\"ConnectWise\"",
-      "threat_type": "Trojan",
+      "threat_name": "ThreatFox.win.phantom_stealer",
+      "threat_type": "Trojan/Payload",
       "severity": "High",
-      "hash_sha256": "\"eb7272fb38b2354eac2c245b55ea06b4f227d211d237419e34f6d460763ea2e0\"",
-      "hash_md5": "\"e932eaa6e3b9e143f3286baa1865fd23\"",
-      "description": "File: \"ScreenConnect.ClientSetup.msi\" | Type: \"msi\" | Source: abuse.ch"
+      "hash_sha256": "",
+      "hash_md5": "7ea1ac9405b7ffcb6c087e3b65d1462a",
+      "description": "Threat: win.phantom_stealer | Source: threatfox.abuse.ch"
     },
     {
-      "threat_name": "AbuseCH.\"RemusStealer\"",
-      "threat_type": "InfoStealer",
+      "threat_name": "ThreatFox.win.krakenkeylogger",
+      "threat_type": "Trojan/Payload",
       "severity": "High",
-      "hash_sha256": "\"0917ecd8ebfb2ef6f9fb4a7687ca51e842bd9edb1a1e24b30803e3d213cf324f\"",
-      "hash_md5": "\"9878c275a40bd2d6f63698b36c65890b\"",
-      "description": "File: \"installer.exe\" | Type: \"exe\" | Source: abuse.ch"
+      "hash_sha256": "cc3417c2cdd3d0a9897528f1229f8649fa7313b348f887aba05173e6542b3e14",
+      "hash_md5": "",
+      "description": "Threat: win.krakenkeylogger | Source: threatfox.abuse.ch"
     },
     {
-      "threat_name": "AbuseCH.\"n/a\"",
-      "threat_type": "Trojan",
+      "threat_name": "ThreatFox.win.phantom_stealer",
+      "threat_type": "Trojan/Payload",
       "severity": "High",
-      "hash_sha256": "\"e811cc7baadaba58c3c5e006f16a575afd827f2f04ec9b7243754d295f8e4205\"",
-      "hash_md5": "\"28c80085d084cecd06f271931081a035\"",
-      "description": "File: \"payload.jar\" | Type: \"jar\" | Source: abuse.ch"
+      "hash_sha256": "",
+      "hash_md5": "41c524a1390a872f207f17a08b443a72",
+      "description": "Threat: win.phantom_stealer | Source: threatfox.abuse.ch"
     },
     {
-      "threat_name": "AbuseCH.\"n/a\"",
-      "threat_type": "Trojan",
+      "threat_name": "ThreatFox.win.phantom_stealer",
+      "threat_type": "Trojan/Payload",
       "severity": "High",
-      "hash_sha256": "\"cf6c05f1edb906c4d8f331f0a80809c53867b9a1e8df1a916ad5c95d9e1ad354\"",
-      "hash_md5": "\"e5e81a69afeaa0ea5994a3dafdf5b998\"",
-      "description": "File: \"OpalCraftSMP.exe\" | Type: \"exe\" | Source: abuse.ch"
+      "hash_sha256": "fc8f02c2dbb35322152f330c0b872bb71ea30d4a74472734531e60de9f2454ef",
+      "hash_md5": "",
+      "description": "Threat: win.phantom_stealer | Source: threatfox.abuse.ch"
     },
     {
-      "threat_name": "AbuseCH.\"n/a\"",
-      "threat_type": "Trojan",
+      "threat_name": "ThreatFox.win.phantom_stealer",
+      "threat_type": "Trojan/Payload",
       "severity": "High",
-      "hash_sha256": "\"9ac30d905e82b61540dc6b0ae9d2ad956f6013532ba5fdca29ab182713c10787\"",
-      "hash_md5": "\"27c4b1c91f312fec582081ec82c2eba2\"",
-      "description": "File: \"install.sh\" | Type: \"sh\" | Source: abuse.ch"
+      "hash_sha256": "eac635e113733a48d63427369c5456b94ffe8075f447eb6e465157f08ab4c87b",
+      "hash_md5": "",
+      "description": "Threat: win.phantom_stealer | Source: threatfox.abuse.ch"
     },
     {
-      "threat_name": "AbuseCH.\"n/a\"",
-      "threat_type": "Trojan",
+      "threat_name": "ThreatFox.py.venus_stealer",
+      "threat_type": "Trojan/Payload",
       "severity": "High",
-      "hash_sha256": "\"828db1ff58e0d6f10da99075d35d65365488ee3b09c44763b6a5b2bfcc3ef93e\"",
-      "hash_md5": "\"c96ed6d22775f825cfa2b9d898005c81\"",
-      "description": "File: \"828db1ff58e0d6f10da99075d35d65365488ee3b09c44763b6a5b2bfcc3ef93e\" | Type: \"elf\" | Source: abuse.ch"
+      "hash_sha256": "",
+      "hash_md5": "ee12bf94330dbbb5025aae8e1ec908a7",
+      "description": "Threat: py.venus_stealer | Source: threatfox.abuse.ch"
     },
     {
-      "threat_name": "AbuseCH.\"LiveMicRAT\"",
-      "threat_type": "Botnet/RAT",
-      "severity": "Critical",
-      "hash_sha256": "\"4bca90b8e1a515ed06eafc926d845c0af49caa7ef82e94d92f73607fd38a01ae\"",
-      "hash_md5": "\"50b486503a7d7a841f60cbaf332565c6\"",
-      "description": "File: \"4bca90b8e1a515ed06eafc926d845c0af49caa7ef82e94d92f73607fd38a01ae\" | Type: \"exe\" | Source: abuse.ch"
-    },
-    {
-      "threat_name": "AbuseCH.\"QuasarRAT\"",
-      "threat_type": "Botnet/RAT",
-      "severity": "Critical",
-      "hash_sha256": "\"46bdc54ed6ca8f9200d5445880c687d0e3730ec8adb9b5d57f420b951aa2be68\"",
-      "hash_md5": "\"c6fa433638c26773708cb30d81b98aef\"",
-      "description": "File: \"46bdc54ed6ca8f9200d5445880c687d0e3730ec8adb9b5d57f420b951aa2be68\" | Type: \"exe\" | Source: abuse.ch"
-    },
-    {
-      "threat_name": "AbuseCH.\"SaturnStealer\"",
-      "threat_type": "InfoStealer",
+      "threat_name": "ThreatFox.py.venus_stealer",
+      "threat_type": "Trojan/Payload",
       "severity": "High",
-      "hash_sha256": "\"39240700758321242861256f3fb39386a9f7f1b29ac4c69acdc774b5f45a139c\"",
-      "hash_md5": "\"ed7e50fea560352ac0973294098d0011\"",
-      "description": "File: \"39240700758321242861256f3fb39386a9f7f1b29ac4c69acdc774b5f45a139c\" | Type: \"exe\" | Source: abuse.ch"
-    },
-    {
-      "threat_name": "AbuseCH.\"ProjectZStealer\"",
-      "threat_type": "InfoStealer",
-      "severity": "High",
-      "hash_sha256": "\"c35a7d89a165ef214d29f2a31dab1650ab7812c404ef6402c46afce60a500a5f\"",
-      "hash_md5": "\"6eb94b4629d58977a67577968bbbe66a\"",
-      "description": "File: \"c35a7d89a165ef214d29f2a31dab1650ab7812c404ef6402c46afce60a500a5f\" | Type: \"exe\" | Source: abuse.ch"
-    },
-    {
-      "threat_name": "AbuseCH.\"ChromeExtractor\"",
-      "threat_type": "Trojan",
-      "severity": "High",
-      "hash_sha256": "\"c452c05c333222e3186635d3058f6164fea4e85507ef7f767abf7b51964bc8dd\"",
-      "hash_md5": "\"b9f457ca8bc03372d031c2d8861b9a5b\"",
-      "description": "File: \"c452c05c333222e3186635d3058f6164fea4e85507ef7f767abf7b51964bc8dd\" | Type: \"exe\" | Source: abuse.ch"
-    },
-    {
-      "threat_name": "AbuseCH.\"KhaiDiGrabber\"",
-      "threat_type": "Trojan",
-      "severity": "High",
-      "hash_sha256": "\"3b80c7da6b7f5198660524dfa5e0a7a9e9e1dd94dd351f98c334b06e4cf0fa94\"",
-      "hash_md5": "\"fe861c24d40347b837a7b57b56d3d4f6\"",
-      "description": "File: \"3b80c7da6b7f5198660524dfa5e0a7a9e9e1dd94dd351f98c334b06e4cf0fa94\" | Type: \"exe\" | Source: abuse.ch"
-    },
-    {
-      "threat_name": "AbuseCH.\"FlowzifritStealer\"",
-      "threat_type": "InfoStealer",
-      "severity": "High",
-      "hash_sha256": "\"64df9bee21edc91b35948ec9fe215dcbbdfe194551e826dc9bb9b24ac3de5d2c\"",
-      "hash_md5": "\"afd2c927893f26aa914e36a416701cbf\"",
-      "description": "File: \"64df9bee21edc91b35948ec9fe215dcbbdfe194551e826dc9bb9b24ac3de5d2c\" | Type: \"exe\" | Source: abuse.ch"
-    },
-    {
-      "threat_name": "AbuseCH.\"MeshAgent\"",
-      "threat_type": "Trojan",
-      "severity": "High",
-      "hash_sha256": "\"b10a4dcd87ac40ff55b48531a43d4f1c412bf5df124e59deb351d94c65170e0a\"",
-      "hash_md5": "\"f2d0ebe8b99ddf2e2f477277ef5b717b\"",
-      "description": "File: \"Customer_Statements.exe\" | Type: \"exe\" | Source: abuse.ch"
-    },
-    {
-      "threat_name": "AbuseCH.\"n/a\"",
-      "threat_type": "Trojan",
-      "severity": "High",
-      "hash_sha256": "\"83ff82311a7e7ba69c4d0c10c26d1e7d37025c08f2aef4deb767f159e1ec43f2\"",
-      "hash_md5": "\"50e48829374370c5c5206a9355d0cce5\"",
-      "description": "File: \"1724460745.exe\" | Type: \"exe\" | Source: abuse.ch"
-    },
-    {
-      "threat_name": "AbuseCH.\"n/a\"",
-      "threat_type": "Trojan",
-      "severity": "High",
-      "hash_sha256": "\"11b4c154870b507e05c90ccadd1a3cd6b96a09b2b3d8f415ebe020262f11b007\"",
-      "hash_md5": "\"ffa687fbfaf48299c074d953c8478776\"",
-      "description": "File: \"11b4c154870b507e05c90ccadd1a3cd6b96a09b2b3d8f415ebe020262f11b007.exe\" | Type: \"exe\" | Source: abuse.ch"
-    },
-    {
-      "threat_name": "AbuseCH.\"n/a\"",
-      "threat_type": "Trojan",
-      "severity": "High",
-      "hash_sha256": "\"747e7392a25f5ca1b7e3672bc3ebf3db91a79b938ecb476f347b642a939fc981\"",
-      "hash_md5": "\"bb4d80f99163d1e8700004c0716293fb\"",
-      "description": "File: \"TenioDL_core.dll\" | Type: \"dll\" | Source: abuse.ch"
-    },
-    {
-      "threat_name": "AbuseCH.\"AsyncRAT\"",
-      "threat_type": "Botnet/RAT",
-      "severity": "Critical",
-      "hash_sha256": "\"a01800943355f4b93674511624a7d29da702fafb6c250cfcc6e11fbc60a951d9\"",
-      "hash_md5": "\"95a7e7662a21d7c0e589275e80f9d9f0\"",
-      "description": "File: \"TenioDL appcompat.exe\" | Type: \"exe\" | Source: abuse.ch"
+      "hash_sha256": "cbabe6cb9fd822bb69b271c14952397b4d2a571d9e11e08c26312fad1b158163",
+      "hash_md5": "",
+      "description": "Threat: py.venus_stealer | Source: threatfox.abuse.ch"
     },
     {
       "threat_name": "ThreatFox.apk.gigabud",
@@ -5525,22 +5797,6 @@
       "description": "Threat: win.formbook | Source: threatfox.abuse.ch"
     },
     {
-      "threat_name": "ThreatFox.unknown_loader",
-      "threat_type": "Trojan/Payload",
-      "severity": "High",
-      "hash_sha256": "8fa5e359da4a934703024a9c351a3c50fcc80d332c85f1c399576c22214a4dcc",
-      "hash_md5": "",
-      "description": "Threat: unknown_loader | Source: threatfox.abuse.ch"
-    },
-    {
-      "threat_name": "ThreatFox.win.valley_rat",
-      "threat_type": "Trojan/Payload",
-      "severity": "High",
-      "hash_sha256": "",
-      "hash_md5": "e86536389821f0a45ff24820a6f2f2fe",
-      "description": "Threat: win.valley_rat | Source: threatfox.abuse.ch"
-    },
-    {
       "threat_name": "ThreatFox.win.vidar",
       "threat_type": "Trojan/Payload",
       "severity": "High",
@@ -5829,14 +6085,6 @@
       "description": "Threat: win.stealc | Source: threatfox.abuse.ch"
     },
     {
-      "threat_name": "ThreatFox.unknown",
-      "threat_type": "Trojan/Payload",
-      "severity": "High",
-      "hash_sha256": "e34b5226de85b9bc11b6beff659b1c8ad0799a44a04184735c9dd8f380b8f05f",
-      "hash_md5": "",
-      "description": "Threat: unknown | Source: threatfox.abuse.ch"
-    },
-    {
       "threat_name": "ThreatFox.win.coinminer",
       "threat_type": "Trojan/Payload",
       "severity": "High",
@@ -5995,134 +6243,6 @@
       "hash_sha256": "3c047882f1bbf5d8911e4d7103f06cf18b587602c95bf8b4b478b82a3226caea",
       "hash_md5": "",
       "description": "Threat: win.vidar | Source: threatfox.abuse.ch"
-    },
-    {
-      "threat_name": "ThreatFox.win.asyncrat",
-      "threat_type": "Trojan/Payload",
-      "severity": "High",
-      "hash_sha256": "",
-      "hash_md5": "041cb077e984d4e46c482c6b4e72ddcb",
-      "description": "Threat: win.asyncrat | Source: threatfox.abuse.ch"
-    },
-    {
-      "threat_name": "ThreatFox.win.coinminer",
-      "threat_type": "Trojan/Payload",
-      "severity": "High",
-      "hash_sha256": "",
-      "hash_md5": "4408fc178af9402887f4523f9dff525d",
-      "description": "Threat: win.coinminer | Source: threatfox.abuse.ch"
-    },
-    {
-      "threat_name": "ThreatFox.win.asyncrat",
-      "threat_type": "Trojan/Payload",
-      "severity": "High",
-      "hash_sha256": "fb28d0aa4dfb2c2ebbb032c445abdb86a6fb6b6a89a14a0ae13fdd3530dc6789",
-      "hash_md5": "",
-      "description": "Threat: win.asyncrat | Source: threatfox.abuse.ch"
-    },
-    {
-      "threat_name": "ThreatFox.win.valley_rat",
-      "threat_type": "Trojan/Payload",
-      "severity": "High",
-      "hash_sha256": "",
-      "hash_md5": "04c0bc2f1ea0e0fb5963812a0d27d6f6",
-      "description": "Threat: win.valley_rat | Source: threatfox.abuse.ch"
-    },
-    {
-      "threat_name": "ThreatFox.win.coinminer",
-      "threat_type": "Trojan/Payload",
-      "severity": "High",
-      "hash_sha256": "11c6eb07317cba1a44151b981ba1bd3a7a83a2bd88a6a82166b09e9eb0482c4d",
-      "hash_md5": "",
-      "description": "Threat: win.coinminer | Source: threatfox.abuse.ch"
-    },
-    {
-      "threat_name": "ThreatFox.win.dboxagent",
-      "threat_type": "Trojan/Payload",
-      "severity": "High",
-      "hash_sha256": "",
-      "hash_md5": "0a106aaf4a0999a5364bc53d697e2f10",
-      "description": "Threat: win.dboxagent | Source: threatfox.abuse.ch"
-    },
-    {
-      "threat_name": "ThreatFox.win.valley_rat",
-      "threat_type": "Trojan/Payload",
-      "severity": "High",
-      "hash_sha256": "20766de513927369a2ccb10ddbeb048916dd408a7c9ed380d836c6e9925c0147",
-      "hash_md5": "",
-      "description": "Threat: win.valley_rat | Source: threatfox.abuse.ch"
-    },
-    {
-      "threat_name": "ThreatFox.win.cobalt_strike",
-      "threat_type": "Trojan/Payload",
-      "severity": "High",
-      "hash_sha256": "",
-      "hash_md5": "d24014049064389357dab970e72e6298",
-      "description": "Threat: win.cobalt_strike | Source: threatfox.abuse.ch"
-    },
-    {
-      "threat_name": "ThreatFox.win.dboxagent",
-      "threat_type": "Trojan/Payload",
-      "severity": "High",
-      "hash_sha256": "d4f52e3470104f6a7e291b0df2bec8a63b70013eef74b49214a32e887be4e6f6",
-      "hash_md5": "",
-      "description": "Threat: win.dboxagent | Source: threatfox.abuse.ch"
-    },
-    {
-      "threat_name": "ThreatFox.win.netwire",
-      "threat_type": "Trojan/Payload",
-      "severity": "High",
-      "hash_sha256": "c51313f8ba25595e6f0619958bdb03b5a6ae0f7c5bc13b2704160a0804447131",
-      "hash_md5": "",
-      "description": "Threat: win.netwire | Source: threatfox.abuse.ch"
-    },
-    {
-      "threat_name": "ThreatFox.win.netwire",
-      "threat_type": "Trojan/Payload",
-      "severity": "High",
-      "hash_sha256": "",
-      "hash_md5": "e1fcd966e28cfc73a481b0eb65b514ab",
-      "description": "Threat: win.netwire | Source: threatfox.abuse.ch"
-    },
-    {
-      "threat_name": "ThreatFox.win.cobalt_strike",
-      "threat_type": "Trojan/Payload",
-      "severity": "High",
-      "hash_sha256": "f535cdbb32dd25fa7dfbcdbae96eafbd5740882e46355c78c895224de6f22e4e",
-      "hash_md5": "",
-      "description": "Threat: win.cobalt_strike | Source: threatfox.abuse.ch"
-    },
-    {
-      "threat_name": "ThreatFox.py.venus_stealer",
-      "threat_type": "Trojan/Payload",
-      "severity": "High",
-      "hash_sha256": "71b749e8344f71346e198d634afde55117c87fa78df18eba184aae3fe260fec3",
-      "hash_md5": "",
-      "description": "Threat: py.venus_stealer | Source: threatfox.abuse.ch"
-    },
-    {
-      "threat_name": "ThreatFox.py.venus_stealer",
-      "threat_type": "Trojan/Payload",
-      "severity": "High",
-      "hash_sha256": "",
-      "hash_md5": "170c31378cfe7def100cf9df5ce4ed4d",
-      "description": "Threat: py.venus_stealer | Source: threatfox.abuse.ch"
-    },
-    {
-      "threat_name": "ThreatFox.win.ghost_rat",
-      "threat_type": "Trojan/Payload",
-      "severity": "High",
-      "hash_sha256": "4a607e36da0a287135c1e5e0dae3827674d6ef42a8cd473f8c848d1b578a2bd9",
-      "hash_md5": "",
-      "description": "Threat: win.ghost_rat | Source: threatfox.abuse.ch"
-    },
-    {
-      "threat_name": "ThreatFox.win.ghost_rat",
-      "threat_type": "Trojan/Payload",
-      "severity": "High",
-      "hash_sha256": "",
-      "hash_md5": "1a6dcfa8d4a429f5511ba3cf83addabd",
-      "description": "Threat: win.ghost_rat | Source: threatfox.abuse.ch"
     }
   ]
 }
