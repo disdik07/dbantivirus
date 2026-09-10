@@ -37,70 +37,6 @@
       "description": "Standard EICAR test signature."
     },
     {
-      "threat_name": "AbuseCH.\"Mirai\"",
-      "threat_type": "Botnet/RAT",
-      "severity": "Critical",
-      "hash_sha256": "\"b304d47c357873c4259a69c82390abdb58e7861e6dfa9770d7742144dcea5dac\"",
-      "hash_md5": "\"12f05ee9c29d099e1967eb48651a6550\"",
-      "description": "File: \"b304d47c357873c4259a69c82390abdb58e7861e6dfa9770d7742144dcea5dac.elf\" | Type: \"elf\" | Source: abuse.ch"
-    },
-    {
-      "threat_name": "AbuseCH.\"n/a\"",
-      "threat_type": "Trojan",
-      "severity": "High",
-      "hash_sha256": "\"cf7549739e71199fa46bedbce06a15605d54051380100e81d2421c6391980d9b\"",
-      "hash_md5": "\"613fb7ed9637e38182bd25a40cbcd1e8\"",
-      "description": "File: \"_br_dropper.vbs\" | Type: \"vbs\" | Source: abuse.ch"
-    },
-    {
-      "threat_name": "AbuseCH.\"n/a\"",
-      "threat_type": "Trojan",
-      "severity": "High",
-      "hash_sha256": "\"e72f262ab63bbf92298349e3ad1e7d7c23441b80886e886f659a02250beca1a2\"",
-      "hash_md5": "\"68ead6214cb58b9576f73e0a5ca303f2\"",
-      "description": "File: \"FURY.bat\" | Type: \"bat\" | Source: abuse.ch"
-    },
-    {
-      "threat_name": "AbuseCH.\"Mirai\"",
-      "threat_type": "Botnet/RAT",
-      "severity": "Critical",
-      "hash_sha256": "\"efcb6102a660423dd48d8fc198d4a4732b1a5d028477e25371d811d723c0fe03\"",
-      "hash_md5": "\"39c1015cbc91a4954d210915a47b29dd\"",
-      "description": "File: \"titan.mipsel\" | Type: \"elf\" | Source: abuse.ch"
-    },
-    {
-      "threat_name": "AbuseCH.\"n/a\"",
-      "threat_type": "Trojan",
-      "severity": "High",
-      "hash_sha256": "\"b54aeb4be97cd1a8c99ed3cb973088884c962097762655ff27fcd32ec7e0af32\"",
-      "hash_md5": "\"61074ba1cabfd8db0548ccd740f90379\"",
-      "description": "File: \"k.php\" | Type: \"sh\" | Source: abuse.ch"
-    },
-    {
-      "threat_name": "AbuseCH.\"Mirai\"",
-      "threat_type": "Botnet/RAT",
-      "severity": "Critical",
-      "hash_sha256": "\"032ff0fadec365884ba081187b5375c8b9b6b5c671843f9f9188bb7166be335a\"",
-      "hash_md5": "\"a3c5918459747db7ff9f9a45fba2d271\"",
-      "description": "File: \"titan.x32\" | Type: \"elf\" | Source: abuse.ch"
-    },
-    {
-      "threat_name": "AbuseCH.\"Mirai\"",
-      "threat_type": "Botnet/RAT",
-      "severity": "Critical",
-      "hash_sha256": "\"905d1ddb63e317d4427b419159976711c9591b10f78c10ccdb9b8aefeaf681f7\"",
-      "hash_md5": "\"75d7f3382415ae7c957d3a66d4b5489d\"",
-      "description": "File: \"titan.sh4\" | Type: \"elf\" | Source: abuse.ch"
-    },
-    {
-      "threat_name": "AbuseCH.\"Urelas\"",
-      "threat_type": "Trojan",
-      "severity": "High",
-      "hash_sha256": "\"c108a1e19763ae5c39fe0d768253cfb16a3b9731dced076782268da84527117f\"",
-      "hash_md5": "\"2ad704d002100e5f9fadf7c8d6c9d005\"",
-      "description": "File: \"2026-09-09_2ad704d002100e5f9fadf7c8d6c9d005_amadey_elex_glassworm_njrat_rhadamanthys_smoke-loader_stealc_stop_tofsee.exe\" | Type: \"exe\" | Source: abuse.ch"
-    },
-    {
       "threat_name": "AbuseCH.\"n/a\"",
       "threat_type": "Trojan",
       "severity": "High",
@@ -4835,6 +4771,70 @@
       "hash_sha256": "\"c35a7d89a165ef214d29f2a31dab1650ab7812c404ef6402c46afce60a500a5f\"",
       "hash_md5": "\"6eb94b4629d58977a67577968bbbe66a\"",
       "description": "File: \"c35a7d89a165ef214d29f2a31dab1650ab7812c404ef6402c46afce60a500a5f\" | Type: \"exe\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"ChromeExtractor\"",
+      "threat_type": "Trojan",
+      "severity": "High",
+      "hash_sha256": "\"c452c05c333222e3186635d3058f6164fea4e85507ef7f767abf7b51964bc8dd\"",
+      "hash_md5": "\"b9f457ca8bc03372d031c2d8861b9a5b\"",
+      "description": "File: \"c452c05c333222e3186635d3058f6164fea4e85507ef7f767abf7b51964bc8dd\" | Type: \"exe\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"KhaiDiGrabber\"",
+      "threat_type": "Trojan",
+      "severity": "High",
+      "hash_sha256": "\"3b80c7da6b7f5198660524dfa5e0a7a9e9e1dd94dd351f98c334b06e4cf0fa94\"",
+      "hash_md5": "\"fe861c24d40347b837a7b57b56d3d4f6\"",
+      "description": "File: \"3b80c7da6b7f5198660524dfa5e0a7a9e9e1dd94dd351f98c334b06e4cf0fa94\" | Type: \"exe\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"FlowzifritStealer\"",
+      "threat_type": "InfoStealer",
+      "severity": "High",
+      "hash_sha256": "\"64df9bee21edc91b35948ec9fe215dcbbdfe194551e826dc9bb9b24ac3de5d2c\"",
+      "hash_md5": "\"afd2c927893f26aa914e36a416701cbf\"",
+      "description": "File: \"64df9bee21edc91b35948ec9fe215dcbbdfe194551e826dc9bb9b24ac3de5d2c\" | Type: \"exe\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"MeshAgent\"",
+      "threat_type": "Trojan",
+      "severity": "High",
+      "hash_sha256": "\"b10a4dcd87ac40ff55b48531a43d4f1c412bf5df124e59deb351d94c65170e0a\"",
+      "hash_md5": "\"f2d0ebe8b99ddf2e2f477277ef5b717b\"",
+      "description": "File: \"Customer_Statements.exe\" | Type: \"exe\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"n/a\"",
+      "threat_type": "Trojan",
+      "severity": "High",
+      "hash_sha256": "\"83ff82311a7e7ba69c4d0c10c26d1e7d37025c08f2aef4deb767f159e1ec43f2\"",
+      "hash_md5": "\"50e48829374370c5c5206a9355d0cce5\"",
+      "description": "File: \"1724460745.exe\" | Type: \"exe\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"n/a\"",
+      "threat_type": "Trojan",
+      "severity": "High",
+      "hash_sha256": "\"11b4c154870b507e05c90ccadd1a3cd6b96a09b2b3d8f415ebe020262f11b007\"",
+      "hash_md5": "\"ffa687fbfaf48299c074d953c8478776\"",
+      "description": "File: \"11b4c154870b507e05c90ccadd1a3cd6b96a09b2b3d8f415ebe020262f11b007.exe\" | Type: \"exe\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"n/a\"",
+      "threat_type": "Trojan",
+      "severity": "High",
+      "hash_sha256": "\"747e7392a25f5ca1b7e3672bc3ebf3db91a79b938ecb476f347b642a939fc981\"",
+      "hash_md5": "\"bb4d80f99163d1e8700004c0716293fb\"",
+      "description": "File: \"TenioDL_core.dll\" | Type: \"dll\" | Source: abuse.ch"
+    },
+    {
+      "threat_name": "AbuseCH.\"AsyncRAT\"",
+      "threat_type": "Botnet/RAT",
+      "severity": "Critical",
+      "hash_sha256": "\"a01800943355f4b93674511624a7d29da702fafb6c250cfcc6e11fbc60a951d9\"",
+      "hash_md5": "\"95a7e7662a21d7c0e589275e80f9d9f0\"",
+      "description": "File: \"TenioDL appcompat.exe\" | Type: \"exe\" | Source: abuse.ch"
     },
     {
       "threat_name": "ThreatFox.apk.gigabud",

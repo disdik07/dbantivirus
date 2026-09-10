@@ -3,7 +3,7 @@
   "release_date": "2026-09-10",
   "signatures_count": 765,
   "changelog": "Pembaruan database multi-sumber: MalwareBazaar + ThreatFox + ClamAV Cisco. Total 765 ancaman aktif siap dideteksi.",
-  "download_url": "https://dbantivirus.vercel.app/updates/signatures_update_2026.09.10.03.json",
-  "sha256": "20939f2b0c3c74c12179d077cadd54d16b6e0b865517ae56c1f0edd8fda5f95c",
+  "download_url": "https://raw.githubusercontent.com/disdik07/dbantivirus/main/updates/signatures_update_2026.09.10.03.json",
+  "sha256": "c0125a044e5ed9693cfd9841f683c0ed73b65427b3c7378d4163c3341987b555",
   "format": "json"
 }
