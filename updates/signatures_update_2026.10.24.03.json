@@ -1,0 +1,40 @@
+{
+  "version": "2026.10.24.03",
+  "release_date": "2026-10-24",
+  "signatures_count": 4,
+  "source": "MalwareBazaar (abuse.ch) + ThreatFox + ClamAV (Cisco)",
+  "signatures": [
+    {
+      "threat_name": "Ransom.Win32.WannaCry.A",
+      "threat_type": "Ransomware",
+      "severity": "Critical",
+      "hash_sha256": "ed01ebf83334a193731427b5b9479b17a4dd42283b0f7924f7b9e0d16df39a29",
+      "hash_md5": "84c82835a5d21bbcf75a61706d8ab549",
+      "description": "WannaCry ransomware primary payload."
+    },
+    {
+      "threat_name": "Ransom.Win64.LockBit3.Black",
+      "threat_type": "Ransomware",
+      "severity": "Critical",
+      "hash_sha256": "d8e8fca2dc0f896fd7cb4cb0031ba249f7cd90b34382cc39328229b47e2ef738",
+      "hash_md5": "c0556277a942978a9c4033324c53c44e",
+      "description": "LockBit 3.0 ransomware."
+    },
+    {
+      "threat_name": "InfoStealer.Win32.RedLine",
+      "threat_type": "InfoStealer",
+      "severity": "High",
+      "hash_sha256": "71c08e50b7cae636b043b2a2b724f7e271cf5ff8c2ef40b8fb7b2fb0a187ff68",
+      "hash_md5": "7b0a70f5e1b2c3d4e5f6a7b8c9d0e1f2",
+      "description": "RedLine credential stealer."
+    },
+    {
+      "threat_name": "EICAR-Test-Signature",
+      "threat_type": "Test.File",
+      "severity": "Low",
+      "hash_sha256": "275a021bbfb6489e54d471899f7db9d1663fc695ec2fe2a2c4538aabf651fd0f",
+      "hash_md5": "44d88612fea8a8f36de82e1278abb02f",
+      "description": "Standard EICAR test signature."
+    }
+  ]
+}
